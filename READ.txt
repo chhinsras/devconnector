@@ -1,0 +1,5 @@
+* Required Packages for Project
+chhinsras-> npm i express mongoose passport passport-jwt jsonwebtoken body-parser bcryptjs validator
+
+* Auto Update Watch (No need to restart everytime)
+npm i -D nodemon
